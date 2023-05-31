@@ -1,7 +1,5 @@
 # Learning Vertex AI: MLOps with Google Cloud
-This is the repository for the LinkedIn Learning course Learning Vertex AI: MLOps with Google Cloud. The full course is available from [LinkedIn Learning][lil-course-url].
-
-![Learning Vertex AI: MLOps with Google Cloud][lil-thumbnail-url] 
+Vertex AI exercises
 
 It seems like everyone is talking about AI these days. But did you know you can train and manage machine learning models using the new MLOps cloud solution from Google? In this course, learn how to manage your entire machine learning model’s lifecycle—from loading data to monitoring deployments—using Vertex AI to build models and maintain your applications.
 
@@ -27,20 +25,3 @@ To resolve this issue:
     Add changes to git using this command: git add .
 	Commit changes using this command: git commit -m "some message"
 
-
-### Instructor
-
-Soham Chatterjee 
-                            
-
-
-Archana Vaidheeswaran 
-                            
-
-
-                            
-
-Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/soham-chatterjee).
-
-[lil-course-url]: https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud?dApp=59033956&leis=LAA
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQHW2Icmm-wL6g/learning-public-crop_675_1200/0/1683147182761?e=2147483647&v=beta&t=d37B7q6Q_NE2K48ABD1kzcACzKCUOrH3UoC2KnuG3ho
